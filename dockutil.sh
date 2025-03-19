@@ -63,8 +63,7 @@ apps=(
 "/Applications/Company Portal.app"
 "/Applications/Microsoft Outlook.app"
 "/Applications/Microsoft Teams.app"
-"/Applications/Microsoft OneDrive.app"
-"/Applications/Safari.app"
+"/Applications/OneDrive.app"
 "/System/Applications/System Preferences.app"
 )
 
