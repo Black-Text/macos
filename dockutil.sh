@@ -63,8 +63,7 @@ apps=(
 "/Applications/Company Portal.app"
 "/Applications/Microsoft Outlook.app"
 "/Applications/Microsoft Teams.app"
-"/Applications/OneDrive.app"
-"/System/Applications/System Preferences.app"
+"/System/Applications/System Settings.app"
 )
 
 # Loop through Apps and check if App is installed, If Installed at App to the Dock.
