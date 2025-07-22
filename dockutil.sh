@@ -56,7 +56,6 @@ echo "clean-out the Dock"
 
 # Full path to Applications to add to the Dock
 apps=(
-"/Applications/Self Service.app"
 "/System/Applications/Launchpad.app"
 "/Applications/Safari.app"
 "/Applications/Google Chrome.app"
