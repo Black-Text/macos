@@ -1,3 +1,3 @@
 #!/bin/zsh
 
-/usr/bin/open "/Applications/Company Portal.app"
+/usr/bin/open "/Applications/Company Portal.app/"
