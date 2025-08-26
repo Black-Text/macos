@@ -59,6 +59,7 @@ apps=(
 "/System/Applications/Launchpad.app"
 "/Applications/Safari.app"
 "/Applications/Google Chrome.app"
+"/Applications/OneDrive.app"
 "/Applications/Microsoft Outlook.app"
 "/Applications/Microsoft Teams.app"
 "/Applications/Company Portal.app"
