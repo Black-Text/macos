@@ -61,6 +61,7 @@ apps=(
 "/Applications/Google Chrome.app"
 "/Applications/Microsoft Outlook.app"
 "/Applications/Microsoft Teams.app"
+"/Applications/Company Portal.app"
 "/System/Applications/System Settings.app"
 )
 
