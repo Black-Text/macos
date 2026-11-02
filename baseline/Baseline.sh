@@ -1832,8 +1832,10 @@ debug_message "Starting script actions"
 #Verify we're running as root
 check_root
 
-#Check if exit condition has been defined
-check_exit_condition
+# Black Text: no exit-condition check here (re-apply on upstream upgrades). This one
+# read the MDM profile before --config was parsed, so a --config without an
+# ExitCondition still exited. The check after verify_configuration_file below uses
+# whichever configuration is in effect.
 
 #No falling asleep on the job, bud
 no_sleeping
